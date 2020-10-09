@@ -1,4 +1,9 @@
 node_modules
 .env
+<<<<<<< HEAD
 build/
 config
+=======
+config
+build/
+>>>>>>> 2b1c35f717b7cebff84cd403e01d806b8c093d94
